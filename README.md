@@ -7,4 +7,4 @@ On considère l'équation KdV sur un domaine [-L, L]:
 
 On discrétise cette équation avec des différences finies, l'inconnue est approximée sur les points
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=^{x_{i}}&space;=&space;-L&space;&plus;&space;2\frac{i}{N}L,&space;i&space;=&space;0..N-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?^{x_{i}}&space;=&space;-L&space;&plus;&space;2\frac{i}{N}L,&space;i&space;=&space;0..N-1" title="^{x_{i}} = -L + 2\frac{i}{N}L, i = 0..N-1" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x{_{i}}&space;=&space;-L&space;&plus;&space;2\frac{i}{N}L,&space;i&space;=&space;0..N-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x{_{i}}&space;=&space;-L&space;&plus;&space;2\frac{i}{N}L,&space;i&space;=&space;0..N-1" title="x{_{i}} = -L + 2\frac{i}{N}L, i = 0..N-1" /></a>
