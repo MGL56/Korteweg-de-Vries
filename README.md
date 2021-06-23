@@ -29,9 +29,10 @@ On utilise alors le schéma implicite suivant :
 où on a utilisé une convention de produit terme à terme, uv est un vecteur de composante uivi. Pour calculer le vecteur <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;\tiny&space;z^{n&plus;1/2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;\tiny&space;z^{n&plus;1/2}" title="\tiny z^{n+1/2}" /></a>, on utilisera la relation suivante :
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=z^{n&plus;1/2}&space;=&space;\frac{3\zeta^{n}&space;-&space;\zeta^{n-1}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?z^{n&plus;1/2}&space;=&space;\frac{3\zeta^{n}&space;-&space;\zeta^{n-1}}{2}" title="z^{n+1/2} = \frac{3\zeta^{n} - \zeta^{n-1}}{2}" /></a>
+
 Le système linéaire à résoudre peut s'écrire : 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" title="(I+\frac{\Delta t}{2}M)\zeta^{n+1} = (I-\frac{\Delta t}{2}M)\zeta^{n}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" title="(I+\frac{\Delta t}{2}M)\zeta^{n+1} = (I-\frac{\Delta t}{2}M)\zeta^{n}" /></a>
 
 avec 
 
