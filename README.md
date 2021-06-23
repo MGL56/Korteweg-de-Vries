@@ -32,7 +32,7 @@ où on a utilisé une convention de produit terme à terme, uv est un vecteur de
 
 Le système linéaire à résoudre peut s'écrire : 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{150}&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{150}&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" title="(I+\frac{\Delta t}{2}M)\zeta^{n+1} = (I-\frac{\Delta t}{2}M)\zeta^{n}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;(I&plus;\frac{\Delta&space;t}{2}M)\zeta^{n&plus;1}&space;=&space;(I-\frac{\Delta&space;t}{2}M)\zeta^{n}" title="(I+\frac{\Delta t}{2}M)\zeta^{n+1} = (I-\frac{\Delta t}{2}M)\zeta^{n}" /></a>
 
 avec 
 
